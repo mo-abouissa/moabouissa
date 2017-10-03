@@ -3,10 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing to do yet
+      - echo Nothing to run
 artifacts:
     files:
       - index.html
-      - favicon.ico
-      - styles/main.css
-      - images/*
+      - assets/*
