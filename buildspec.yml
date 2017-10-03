@@ -7,4 +7,7 @@ phases:
 artifacts:
     files:
       - index.html
-      - assets/*
+      - assets/favicon/*
+      - assets/fonts/*
+      - assets/styles/modules/*
+      - assets/styles/vendor/*

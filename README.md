@@ -1,2 +1,2 @@
 # moabouissa
-Serverless portfolio site built with Lambda and React
+Serverless portfolio site built with AWS Lambda
