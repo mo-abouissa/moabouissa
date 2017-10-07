@@ -3,7 +3,10 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing to run
+      - npm install
+      - npm run webpack
 artifacts:
     files:
-      - public/index.html
+      - index.html
+      - public/dist/bundle.js
+      - config/*
