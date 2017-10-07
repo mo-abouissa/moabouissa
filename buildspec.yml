@@ -6,8 +6,4 @@ phases:
       - echo Nothing to run
 artifacts:
     files:
-      - index.html
-      - assets/favicon/*
-      - assets/fonts/*
-      - assets/styles/modules/*
-      - assets/styles/vendor/*
+      - public/index.html
